@@ -1,6 +1,6 @@
- Sales-Data-Dashboard-Analysis
-An interactive sales data analysis dashboard created using Power BI.
  📊 Super Store Sales Dashboard Analysis
+
+An interactive sales data analysis dashboard created using Power BI.
 
 📌 Project Overview
 
@@ -32,7 +32,7 @@ The dashboard includes the following insights:
 
  🖼️ Dashboard Preview
 
-![Super Store Sales Dashboard](dasbooard%20screenshot.png)
+![Super Store Sales Dashboard](dashboard.png)
 
 🎯 Key Insights
 
