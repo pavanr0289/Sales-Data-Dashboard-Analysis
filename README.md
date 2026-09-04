@@ -31,9 +31,7 @@ The dashboard includes the following insights:
 - Regional sales analysis
 
  🖼️ Dashboard Preview
-
-dasbooard.png
-
+![Super Store Sales Dashboard](./dashboard.png)
 🎯 Key Insights
 
 - Consumer segment contributes the highest percentage of sales.
