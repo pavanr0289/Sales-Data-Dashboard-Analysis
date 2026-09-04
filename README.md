@@ -32,7 +32,7 @@ The dashboard includes the following insights:
 
  🖼️ Dashboard Preview
 
-![Super Store Sales Dashboard](dashboard.png)
+dasbooard.png
 
 🎯 Key Insights
 
